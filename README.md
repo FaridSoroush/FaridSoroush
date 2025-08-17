@@ -1,5 +1,5 @@
 # Farid Soroush, Ph.D.
-📧 **Email:** soroushfarid@gmail.com|
+📧 **Email:** soroushfarid@gmail.com
 
 ** Machine Learning | Artificial Intelligence **
 
