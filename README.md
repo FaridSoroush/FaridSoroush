@@ -1,10 +1,3 @@
-# Farid Soroush, Ph.D.
-📧 **Email:** soroushfarid@gmail.com
-
-** Machine Learning | Artificial Intelligence **
-
----
-
 ### About Me
 I design and deploy **end-to-end large-scale Machine Learning & AI systems** — from research and prototyping to production deployment — driving impact for high-revenue businesses. My focus areas include:
 
