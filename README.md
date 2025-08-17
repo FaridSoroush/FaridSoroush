@@ -1,6 +1,5 @@
 Machine Learning and AI expert with extensive end-to-end experience (from design and prototyping of models to impactful deployment of large-scale systems) for high-revenue businesses, specifically:
-- **Recommendation & Ranking Systems**
-- **Computer Vision**
+- **Recommendation/Ranking Systems and Computer Vision**
 - **AI Agent Frameworks & Protocols (LLM-based)**
 ---
 ### Experience
