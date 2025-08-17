@@ -1,16 +1,27 @@
-End-to-end large-scale Machine Learning & AI systems (design, prototyping, deployment) for high-revenue businesses. Email: soroushfarid@gmail.com
+# Farid Soroush, Ph.D.
+📧 **Email:** soroushfarid@gmail.com|
 
-<!--
-**FaridSoroush/FaridSoroush** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+** Machine Learning | Artificial Intelligence **
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### About Me
+I design and deploy **end-to-end large-scale Machine Learning & AI systems** — from research and prototyping to production deployment — driving impact for high-revenue businesses. My focus areas include:
+
+- **Recommendation & Ranking Systems**
+- **Computer Vision**
+- **AI Agent Frameworks & Protocols (LLM-based)**
+
+---
+
+### Experience
+- **Vice President, AI/ML – J.P. Morgan Chase (2025–present)**
+- **Tech Lead, Camera – Apple (2022–2025)**
+
+---
+
+### Education
+- **Professional Certificate in Data Science & Machine Learning – MIT (2025)**
+- **Ph.D. in Engineering – Stanford University (2022)**
+
+---
