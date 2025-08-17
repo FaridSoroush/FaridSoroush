@@ -1,4 +1,4 @@
-## Hi there 👋
+End-to-end large-scale Machine Learning & AI systems (design, prototyping, deployment) for high-revenue businesses. Email: soroushfarid@gmail.com
 
 <!--
 **FaridSoroush/FaridSoroush** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
