@@ -1,4 +1,4 @@
-Machine Learning Algorithms, Distributed Systems, Large-Scale Data Processing & Model Deployment, End-to-End ML Solutions, ML Infrastructure Design, Recommendation & Ads Ranking, Computer Vision, LLMs & AI Agents
+<sub>Machine Learning Algorithms, Distributed Systems, Large-Scale Data Processing & Model Deployment, End-to-End ML Solutions, ML Infrastructure Design, Recommendation & Ads Ranking, Computer Vision, LLMs & AI Agents</sub>
 ---
 ### Experience
 - **Vice President, AI/ML – J.P. Morgan Chase (2025–present)**
